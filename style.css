@@ -1,0 +1,29 @@
+body {
+  background:  #e4eaee;
+  color: #8d99a1;
+  font-family: 'Exo 2', sans-serif;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+a {
+  color: #8d99a1;
+  text-decoration: none;
+}
+
+.component {
+  background: white;
+  border-radius: .3em;
+  box-shadow: 0 0.6em 1.7em 0.1em rgba(0, 0, 0, 0.1);
+  padding: 1em;
+}
+
+.main {
+  margin: 20% auto;
+  max-width: 20em;
+  text-align: center;
+  text-transform: capitalize;
+}
+
